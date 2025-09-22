@@ -1,2 +1,2 @@
-smartsSDLC documentation;https://drive.google.com/drive/folders/12nPWGnFav2Py7Kl6C0FuowGzXacHU0y1
-# Smartsdlcai
+smartsSDLC documentation;https://docs.google.com/document/d/1LZbt21WNtC3HemlAtBlQvO81naABRRRE/edit?usp=drivesdk&ouid=101736970231046226985&rtpof=true&sd=true
+# Smartsdlc
